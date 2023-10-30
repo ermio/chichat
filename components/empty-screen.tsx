@@ -29,8 +29,8 @@ export function EmptyScreen({ setInput }: Pick<UseChatHelpers, 'setInput'>) {
         <p className="mb-2 leading-normal text-muted-foreground">
           This is a free chatGPT interface built with{' '}
           <ExternalLink href="https://github.com/vercel-labs/ai-chatbot">Vercel</ExternalLink> and sponsored by{' '}
-          <ExternalLink href="https://twitter.com/pachapapaa">
-            Pachapapa
+          <ExternalLink href="https://etherscan.io/address/0x0c4f3263ac508FE739010EDB8765dA50Ee271C38">
+            Donors
           </ExternalLink>
           .
         </p>

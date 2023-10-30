@@ -69,7 +69,7 @@ export async function Header() {
         >
           <IconVercel className="mr-2" />
           <span className="hidden sm:block">Donate (chichat.eth)</span>
-          <span className="sm:hidden">Deploy</span>
+          <span className="sm:hidden">Donate</span>
         </a>
       </div>
     </header>

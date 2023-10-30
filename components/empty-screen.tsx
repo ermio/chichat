@@ -24,7 +24,7 @@ export function EmptyScreen({ setInput }: Pick<UseChatHelpers, 'setInput'>) {
     <div className="mx-auto max-w-2xl px-4">
       <div className="rounded-lg border bg-background p-8">
         <h1 className="mb-2 text-lg font-semibold">
-          Welcome to ChiChat, your Personal AI Assistant!
+          Welcome to ChiChat, your personal AI assistant!
         </h1>
         <p className="mb-2 leading-normal text-muted-foreground">
           This is a free chatGPT interface built with{' '}

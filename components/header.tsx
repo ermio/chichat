@@ -55,7 +55,7 @@ export async function Header() {
       <div className="flex items-center justify-end space-x-2">
         <a
           target="_blank"
-          href="https://github.com/vercel/nextjs-ai-chatbot/"
+          href="https://github.com/ermio/chichat"
           rel="noopener noreferrer"
           className={cn(buttonVariants({ variant: 'outline' }))}
         >
@@ -63,12 +63,12 @@ export async function Header() {
           <span className="hidden ml-2 md:flex">Contribute</span>
         </a>
         <a
-          href="https://github.com/ermio/chichat"
+          href="https://zapper.xyz/account/0x0c4f3263ac508fe739010edb8765da50ee271c38?modal=token-transfer"
           target="_blank"
           className={cn(buttonVariants())}
         >
           <IconVercel className="mr-2" />
-          <span className="hidden sm:block">Deploy to Vercel</span>
+          <span className="hidden sm:block">Donate (chichat.eth)</span>
           <span className="sm:hidden">Deploy</span>
         </a>
       </div>
